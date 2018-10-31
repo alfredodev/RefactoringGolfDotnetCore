@@ -3,21 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
+using Round5.A;
+using Xunit;
 
-namespace Round5.A.Tests
+namespace Round5.B.Tests
 {
-    [TestFixture]
     public class MathsTests
     {
-        [TestCase(1)]
-        [TestCase(4)]
-        [TestCase(9)]
-        [TestCase(16)]
-        [TestCase(0.25)]
+        [Theory]
+        [InlineData(1)]
+        [InlineData(4)]
+        [InlineData(9)]
+        [InlineData(16)]
+        [InlineData(0.25)]
         public void RootSquaredIsOriginalNumber(double number)
         {
-            Assert.AreEqual(Maths.Sqrroot(number) * Maths.Sqrroot(number), number, 1e-15);
+            Assert.Equal(Maths.Sqrroot(number) * Maths.Sqrroot(number), number, (int)1e-15);
         }
     }
 }

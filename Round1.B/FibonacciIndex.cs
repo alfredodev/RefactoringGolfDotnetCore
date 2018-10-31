@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Round1.A
+namespace Round1.B
 {
     public class FibonacciIndex
     {

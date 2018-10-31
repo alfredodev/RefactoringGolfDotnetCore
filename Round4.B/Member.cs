@@ -1,4 +1,4 @@
-﻿namespace Round4.A
+﻿namespace Round4.B
 {
     public class Member
     {

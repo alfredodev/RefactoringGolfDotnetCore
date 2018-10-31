@@ -1,0 +1,9 @@
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/obj/Debug/netstandard2.0/Round4.B.csproj.CoreCompileInputs.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/obj/Debug/netstandard2.0/Round4.B.AssemblyInfoInputs.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/obj/Debug/netstandard2.0/Round4.B.AssemblyInfo.cs
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/bin/Debug/netstandard2.0/Round4.B.deps.json
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/bin/Debug/netstandard2.0/Round4.B.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/bin/Debug/netstandard2.0/Round4.B.pdb
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/obj/Debug/netstandard2.0/Round4.B.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/obj/Debug/netstandard2.0/Round4.B.pdb
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.B/obj/Debug/netstandard2.0/Round4.B.csprojAssemblyReference.cache

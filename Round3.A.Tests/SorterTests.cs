@@ -3,36 +3,35 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
+using Xunit;
 
 namespace Round3.A.Tests
 {
-    [TestFixture]
     public class SorterTests
     {
 
-        [Test]
+        [Fact]
         public void BubblesortPutsArrayInAscendingOrder()
         {
             int[] array = { 3, 1, 2 };
             array = new Sorter().Sort(SortKind.Bubble, array);
-            CollectionAssert.AreEqual(new int[] { 1, 2, 3 }, array);
+            Assert.Equal(new int[] { 1, 2, 3 }, array);
         }
 
-        [Test]
+        [Fact]
         public void QuicksortPutsArrayInAscendingOrder()
         {
             int[] array = { 3, 1, 2 };
             array = new Sorter().Sort(SortKind.Quick, array);
-            CollectionAssert.AreEqual(new int[] { 1, 2, 3 }, array);
+            Assert.Equal(new int[] { 1, 2, 3 }, array);
         }
 
-        [Test]
+        [Fact]
         public void InsertionsortPutsArrayInAscendingOrder()
         {
             int[] array = { 3, 1, 2 };
             array = new Sorter().Sort(SortKind.Insertion, array);
-            CollectionAssert.AreEqual(new int[] { 1, 2, 3 }, array);
+            Assert.Equal(new int[] { 1, 2, 3 }, array);
         }
 
     }

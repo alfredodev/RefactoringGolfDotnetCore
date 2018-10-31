@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Round5.A
+namespace Round5.B
 {
 
     public class Maths

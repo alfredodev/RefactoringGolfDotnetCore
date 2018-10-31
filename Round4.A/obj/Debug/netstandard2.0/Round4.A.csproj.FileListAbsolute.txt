@@ -1,0 +1,14 @@
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.csproj.CoreCompileInputs.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.AssemblyInfoInputs.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.AssemblyInfo.cs
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.csprojAssemblyReference.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/Round4.A.deps.json
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/Round4.A.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/Round4.A.pdb
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/xunit.assert.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/xunit.core.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/xunit.assert.xml
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/bin/Debug/netstandard2.0/xunit.core.xml
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.csproj.CopyComplete
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round4.A/obj/Debug/netstandard2.0/Round4.A.pdb

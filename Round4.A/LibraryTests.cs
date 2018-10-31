@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+using Xunit;
 
 namespace Round4.A
 {
-    [TestFixture]
     public class LibraryTests
     {
-        [Test]
+        [Fact]
         public void DonatedTitlesAreAddedToLibraryWithOneDefaultCopy()
         {
             Library library = new Library();
@@ -18,10 +13,10 @@ namespace Round4.A
             String donorId = "Jason123";
             library.Donate(titleName, donorId);
             Object[] donatedTitle = library.GetTitles()[titleName];
-            Assert.AreEqual(titleName, (String)donatedTitle[0]);
-            Assert.AreEqual(donorId, (String)donatedTitle[1]);
-            Assert.AreEqual(1, (int)donatedTitle[2]);
-            Assert.AreEqual(1, library.GetTitlesDonatedByMember(donorId).Count);
+            Assert.Equal(titleName, (String)donatedTitle[0]);
+            Assert.Equal(donorId, (String)donatedTitle[1]);
+            Assert.Equal(1, (int)donatedTitle[2]);
+            Assert.Equal(1, library.GetTitlesDonatedByMember(donorId).Count);
         }
     }
 }

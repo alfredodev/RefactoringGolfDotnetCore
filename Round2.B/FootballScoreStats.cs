@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Round2.A
+namespace Round2.B
 {
     public class FootballScoreStats
     {

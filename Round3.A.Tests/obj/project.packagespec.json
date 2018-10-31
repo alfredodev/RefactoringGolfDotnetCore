@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round3.A.Tests/Round3.A.Tests.csproj",
+    "projectName": "Round3.A.Tests",
+    "projectPath": "/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round3.A.Tests/Round3.A.Tests.csproj",
+    "outputPath": "/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round3.A.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round3.A/Round3.A.csproj": {
+            "projectPath": "/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round3.A/Round3.A.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.8.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

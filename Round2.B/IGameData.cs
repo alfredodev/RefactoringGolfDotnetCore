@@ -1,4 +1,4 @@
-﻿namespace Round2.A
+﻿namespace Round2.B
 {
     public interface IGameData
     {

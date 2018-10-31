@@ -1,39 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+﻿using Xunit;
 
-namespace Round3.A.Tests
+namespace Round3.B.Tests
 {
-    [TestFixture]
     public class SorterTests
     {
 
-        [Test]
+        [Fact]
         public void BubblesortPutsArrayInAscendingOrder()
         {
             int[] array = { 3, 1, 2 };
             array = new Sorter().Sort(new BubbleSort(), array);
-            CollectionAssert.AreEqual(new int[] { 1, 2, 3 }, array);
+            Assert.Equal(new int[] { 1, 2, 3 }, array);
         }
 
-        [Test]
+        [Fact]
         public void QuicksortPutsArrayInAscendingOrder()
         {
             int[] array = { 3, 1, 2 };
             array = new Sorter().Sort(new QuickSort(), array);
-            CollectionAssert.AreEqual(new int[] { 1, 2, 3 }, array);
+            Assert.Equal(new int[] { 1, 2, 3 }, array);
         }
 
-        [Test]
+        [Fact]
         public void InsertionsortPutsArrayInAscendingOrder()
         {
             int[] array = { 3, 1, 2 };
             array = new Sorter().Sort(new InsertionSort(), array);
-            CollectionAssert.AreEqual(new int[] { 1, 2, 3 }, array);
+            Assert.Equal(new int[] { 1, 2, 3 }, array);
         }
 
     }

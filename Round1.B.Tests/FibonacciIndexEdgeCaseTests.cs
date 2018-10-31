@@ -1,18 +1,17 @@
-﻿using NUnit.Framework;
+﻿using Xunit;
 
-namespace Round1.A.Tests
+namespace Round1.B.Tests
 {
-    [TestFixture]
     public class FibonacciIndexEdgeCaseTests
     {
-        [Test]
+        [Fact]
         public void WhenNumberNotFoundThenIndexIsMinusOne() {
-            Assert.AreEqual(-1, new FibonacciIndex().FindIndexOf(7));
+            Assert.Equal(-1, new FibonacciIndex().FindIndexOf(7));
         }
 
-        [Test]
+        [Fact]
         public void CannotFindIndexOfNegativeNumber() {
-            Assert.AreEqual(-1, new FibonacciIndex().FindIndexOf(-1));
+            Assert.Equal(-1, new FibonacciIndex().FindIndexOf(-1));
         }
     }
 }

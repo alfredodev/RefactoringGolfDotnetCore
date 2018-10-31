@@ -1,0 +1,16 @@
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/obj/Debug/netcoreapp2.1/Round5.A.Tests.csproj.CoreCompileInputs.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/obj/Debug/netcoreapp2.1/Round5.A.Tests.AssemblyInfoInputs.cache
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/obj/Debug/netcoreapp2.1/Round5.A.Tests.AssemblyInfo.cs
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.Tests.deps.json
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.Tests.runtimeconfig.json
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.Tests.runtimeconfig.dev.json
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.Tests.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.Tests.pdb
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/bin/Debug/netcoreapp2.1/Round5.A.pdb
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/obj/Debug/netcoreapp2.1/Round5.A.Tests.csproj.CopyComplete
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/obj/Debug/netcoreapp2.1/Round5.A.Tests.dll
+/Users/alfredodev/Documents/projects/moonpig/Refactoring/Katas/RefactoringGolf/Round5.A.Tests/obj/Debug/netcoreapp2.1/Round5.A.Tests.pdb

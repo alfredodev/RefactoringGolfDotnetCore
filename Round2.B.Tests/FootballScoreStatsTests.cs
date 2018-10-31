@@ -1,20 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+﻿using Xunit;
 
-namespace Round2.A.Tests
+namespace Round2.B.Tests
 {
-    [TestFixture]
     public class FootballScoreStatsTests
     {
-        [Test]
+        [Fact]
         public void TotalsFootballScoresForTeam()
         {
             FootballScoreStats stats = new FootballScoreStats(new FootballData());
-            Assert.AreEqual(6, stats.TeamTotal("Liverpool"));
+            Assert.Equal(6, stats.TeamTotal("Liverpool"));
         }
     }
 }

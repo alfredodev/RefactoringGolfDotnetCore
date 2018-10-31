@@ -1,28 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+﻿using Xunit;
 
-namespace Round1.A.Tests
+namespace Round1.B.Tests
 {
-[TestFixture]
-public class FibonacciIndexTests {
-
-    [Test]
-    [TestCase(0,0)]
-    [TestCase(1,1)]
-    [TestCase(3,2)]
-    [TestCase(4,3)]
-    [TestCase(5,5)]
-    [TestCase(6,8)]
-    [TestCase(7,13)]
-    [TestCase(8,21)]
-    [TestCase(49,7778742049L)]
-	public void FindsIndexOfFibonacciNumber(int expectedIndex, long fibonacci) {
-		Assert.AreEqual(expectedIndex, new FibonacciIndex().FindIndexOf(fibonacci));
+	public class FibonacciIndexTests {
+	
+		[Theory]
+		[InlineData(0,0)]
+		[InlineData(1,1)]
+		[InlineData(3,2)]
+		[InlineData(4,3)]
+		[InlineData(5,5)]
+		[InlineData(6,8)]
+		[InlineData(7,13)]
+		[InlineData(8,21)]
+		[InlineData(49,7778742049L)]
+		public void FindsIndexOfFibonacciNumber(int expectedIndex, long fibonacci) {
+			Assert.Equal(expectedIndex, new FibonacciIndex().FindIndexOf(fibonacci));
+		}
 	}
-}
-
 }

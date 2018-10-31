@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Round3.A.Tests/SorterTests.cs" line="6" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ea6c2c4-5a48-418f-a591-2502f0fd195b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RefactoringGolf.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RefactoringGolf.v12.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/Round1.A.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.A/Round1.A.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/bin/Debug/Round1.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/bin/Debug/Round1.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/obj/Debug/Round1.A.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/obj/Debug/Round1.A.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/obj/Debug/Round1.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.A/obj/Debug/Round1.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexEdgeCaseTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexEdgeCaseTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/Round1.B.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B.Tests/Round1.B.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/bin/Debug/Round1.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/bin/Debug/Round1.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/bin/Debug/Round1.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/bin/Debug/Round1.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/Round1.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/Round1.B.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/Round1.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/Round1.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/FibonacciIndex.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/FibonacciIndex.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/Round1.B.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/Round1.B.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/bin/Debug/Round1.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/bin/Debug/Round1.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/FootballScoreStatsTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A.Tests/FootballScoreStatsTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/Round2.A.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A.Tests/Round2.A.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/bin/Debug/Round2.A.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/bin/Debug/Round2.A.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/bin/Debug/Round2.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/bin/Debug/Round2.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/Round2.A.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/Round2.A.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/Round2.A.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/Round2.A.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/Round2.A.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A/Round2.A.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/bin/Debug/Round2.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/bin/Debug/Round2.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/FootballScoreStatsTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B.Tests/FootballScoreStatsTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/Round2.B.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B.Tests/Round2.B.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/bin/Debug/Round2.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/bin/Debug/Round2.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/bin/Debug/Round2.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/bin/Debug/Round2.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/Round2.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/Round2.B.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/Round2.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/Round2.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/FootballData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/FootballData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/FootballScoreStats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/FootballScoreStats.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/IGameData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/IGameData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/Round2.B.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/Round2.B.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/bin/Debug/Round2.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/bin/Debug/Round2.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/Round3.A.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A.Tests/Round3.A.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/SorterTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A.Tests/SorterTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/bin/Debug/Round3.A.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/bin/Debug/Round3.A.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/bin/Debug/Round3.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/bin/Debug/Round3.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/Round3.A.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/Round3.A.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/Round3.A.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/Round3.A.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/Round3.A.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A/Round3.A.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/bin/Debug/Round3.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/bin/Debug/Round3.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/Round3.B.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B.Tests/Round3.B.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/SorterTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B.Tests/SorterTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/bin/Debug/Round3.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/bin/Debug/Round3.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/bin/Debug/Round3.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/bin/Debug/Round3.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/Round3.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/Round3.B.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/Round3.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/Round3.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/AbstractSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/AbstractSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/BubbleSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/BubbleSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/InsertionSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/InsertionSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/QuickSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/QuickSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/Round3.B.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/Round3.B.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/Sorter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/Sorter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/bin/Debug/Round3.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/bin/Debug/Round3.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/LibraryTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.A/LibraryTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/Round4.A.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.A/Round4.A.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/bin/Debug/Round4.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/bin/Debug/Round4.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/obj/Debug/Round4.A.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/obj/Debug/Round4.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/obj/Debug/Round4.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/LibraryTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B.Tests/LibraryTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/Round4.B.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B.Tests/Round4.B.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/bin/Debug/Round4.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/bin/Debug/Round4.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/bin/Debug/Round4.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/bin/Debug/Round4.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/Round4.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/Round4.B.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/Round4.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/Round4.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/Library.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/Library.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/Member.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/Member.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/Round4.B.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/Round4.B.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/Title.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/Title.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/bin/Debug/Round4.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/bin/Debug/Round4.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/MathsTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A.Tests/MathsTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/Round5.A.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A.Tests/Round5.A.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/bin/Debug/Round5.A.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/bin/Debug/Round5.A.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/bin/Debug/Round5.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/bin/Debug/Round5.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/Round5.A.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/Round5.A.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/Round5.A.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/Round5.A.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/Round5.A.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A/Round5.A.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/bin/Debug/Round5.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/bin/Debug/Round5.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/MathsTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B.Tests/MathsTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/Round5.B.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B.Tests/Round5.B.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/bin/Debug/Round5.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/bin/Debug/Round5.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/bin/Debug/Round5.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/bin/Debug/Round5.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/Round5.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/Round5.B.Tests.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/Round5.B.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/Round5.B.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/Maths.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/Maths.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/Round5.B.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/Round5.B.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/bin/Debug/Round5.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/bin/Debug/Round5.B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.pdb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1719168435">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-773838601">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="39" />
+          <entry key="csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="39" />
+          <entry key="Csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="132" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round4.B/Member.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+              <folding>
+                <marker date="1540985903019" expanded="true" signature="18:339" ph="{...}" />
+                <marker date="1540985903019" expanded="true" signature="44:337" ph="{...}" />
+                <marker date="1540985903019" expanded="true" signature="151:223" ph="{...}" />
+                <marker date="1540985903019" expanded="true" signature="264:331" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round4.B.Tests/LibraryTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <marker date="1540986034666" expanded="true" signature="6:172" ph="..." />
+                <marker date="1540986034666" expanded="true" signature="192:905" ph="{...}" />
+                <marker date="1540986034666" expanded="true" signature="224:903" ph="{...}" />
+                <marker date="1540986034666" expanded="true" signature="316:897" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round1.A/Round1.A.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <marker date="1540985182659" expanded="true" signature="6:46" ph="..." />
+                <marker date="1540985182659" expanded="true" signature="66:1140" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="105:1138" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="390:451" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="518:560" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="621:664" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="710:1135" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="750:783" ph="{...}" />
+                <marker date="1540985182659" expanded="true" signature="927:1100" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round5.B/Maths.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <marker date="1540986034659" expanded="false" signature="6:115" ph="..." />
+                <marker date="1540986034659" expanded="true" signature="135:527" ph="{...}" />
+                <marker date="1540986034659" expanded="true" signature="161:524" ph="{...}" />
+                <marker date="1540986034659" expanded="true" signature="274:517" ph="{...}" />
+                <marker date="1540986034659" expanded="true" signature="397:481" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round5.B.Tests/MathsTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <marker date="1540991216347" expanded="false" signature="6:144" ph="..." />
+                <marker date="1540991216347" expanded="true" signature="170:531" ph="{...}" />
+                <marker date="1540991216347" expanded="true" signature="200:529" ph="{...}" />
+                <marker date="1540991216347" expanded="true" signature="410:523" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Round2.B.Tests/FootballScoreStatsTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1540991795135" expanded="true" signature="38:322" ph="{...}" />
+                <marker date="1540991795135" expanded="true" signature="81:320" ph="{...}" />
+                <marker date="1540991795135" expanded="true" signature="152:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round4.A/LibraryTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <marker date="1540991245543" expanded="true" signature="6:26" ph="..." />
+                <marker date="1540991245543" expanded="true" signature="46:693" ph="{...}" />
+                <marker date="1540991245543" expanded="true" signature="78:691" ph="{...}" />
+                <marker date="1540991245543" expanded="true" signature="170:685" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round5.A.Tests/MathsTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <marker date="1540991446472" expanded="true" signature="38:768" ph="{...}" />
+                <marker date="1540991446472" expanded="true" signature="68:766" ph="{...}" />
+                <marker date="1540991446472" expanded="true" signature="127:206" ph="{...}" />
+                <marker date="1540991446472" expanded="true" signature="260:339" ph="{...}" />
+                <marker date="1540991446472" expanded="true" signature="395:474" ph="{...}" />
+                <marker date="1540991446472" expanded="true" signature="532:612" ph="{...}" />
+                <marker date="1540991446472" expanded="true" signature="675:759" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round5.A/Maths.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <marker date="1540979449000" expanded="false" signature="6:115" ph="..." />
+                <marker date="1540979449000" expanded="true" signature="135:527" ph="{...}" />
+                <marker date="1540979449000" expanded="true" signature="161:524" ph="{...}" />
+                <marker date="1540979449000" expanded="true" signature="274:517" ph="{...}" />
+                <marker date="1540979449000" expanded="true" signature="397:481" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[TestCase</find>
+      <find>.AreEqual(</find>
+      <find>[Test]</find>
+      <find>using NUnit.Framework;</find>
+      <find>[TestFixture]</find>
+      <find>InlineData</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>[InlineData</replace>
+      <replace>.Equal(</replace>
+      <replace>[Fact]</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Round5.A/Maths.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.B.Tests/FootballScoreStatsTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.B/AbstractSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.B/Sorter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexEdgeCaseTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.B/IGameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.B/FootballData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.A.Tests/SorterTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round4.A/LibraryTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round5.A.Tests/MathsTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round4.B/Title.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.B.Tests/SorterTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.A/FootballData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.B/FootballScoreStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round4.B/Member.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.B/QuickSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round1.B/FibonacciIndex.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.B/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.B/InsertionSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round1.A/obj/Debug/netstandard2.0/Round1.A.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.A.Tests/FootballScoreStatsTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round5.B.Tests/MathsTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round4.B/Library.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round4.B.Tests/LibraryTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.B/BubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round3.A/Sorter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round5.B/Maths.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs" />
+        <option value="$PROJECT_DIR$/Round2.A.Tests/FootballScoreStatsTests.cs" />
+        <option value="$PROJECT_DIR$/Round3.A.Tests/SorterTests.cs" />
+        <option value="$PROJECT_DIR$/Round3.B.Tests/SorterTests.cs" />
+        <option value="$PROJECT_DIR$/Round3.B/AbstractSort.cs" />
+        <option value="$PROJECT_DIR$/Round3.B/BubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Round3.B/InsertionSort.cs" />
+        <option value="$PROJECT_DIR$/Round3.B/QuickSort.cs" />
+        <option value="$PROJECT_DIR$/Round3.B/Sorter.cs" />
+        <option value="$PROJECT_DIR$/Round1.B/FibonacciIndex.cs" />
+        <option value="$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexEdgeCaseTests.cs" />
+        <option value="$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexTests.cs" />
+        <option value="$PROJECT_DIR$/Round2.B/FootballData.cs" />
+        <option value="$PROJECT_DIR$/Round2.B/FootballScoreStats.cs" />
+        <option value="$PROJECT_DIR$/Round2.B/Game.cs" />
+        <option value="$PROJECT_DIR$/Round2.B/IGameData.cs" />
+        <option value="$PROJECT_DIR$/Round4.B/Library.cs" />
+        <option value="$PROJECT_DIR$/Round4.B/Title.cs" />
+        <option value="$PROJECT_DIR$/Round4.B/Member.cs" />
+        <option value="$PROJECT_DIR$/Round4.B.Tests/LibraryTests.cs" />
+        <option value="$PROJECT_DIR$/Round5.B/Maths.cs" />
+        <option value="$PROJECT_DIR$/Round5.B.Tests/MathsTests.cs" />
+        <option value="$PROJECT_DIR$/Round4.A/LibraryTests.cs" />
+        <option value="$PROJECT_DIR$/Round5.A.Tests/MathsTests.cs" />
+        <option value="$PROJECT_DIR$/Round2.B.Tests/FootballScoreStatsTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="41" />
+    <option name="width" value="1400" />
+    <option name="height" value="781" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Round1.A" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Round1.B" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Round2.A" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Round5.A.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Round5.B" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Round5.B.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea6c2c4-5a48-418f-a591-2502f0fd195b" name="Default Changelist" comment="" />
+      <created>1540979478959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540979478959</updated>
+      <workItem from="1540979480309" duration="2457000" />
+      <workItem from="1540984627966" duration="2292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5032000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="21" y="41" width="1400" height="781" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" sideWeight="0.4963181" visible="true" weight="0.3280116" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4970545" weight="0.48766327" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.49558175" weight="0.3918723" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5036819" side_tool="true" visible="true" weight="0.3280116" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Round1.A/obj/Debug/netstandard2.0/Round1.A.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1540991799152" expanded="true" signature="0:259" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1540991799152" expanded="false" signature="267:299" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.A.Tests/FootballScoreStatsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1540985558942" expanded="true" signature="6:128" ph="..." />
+            <marker date="1540985558942" expanded="true" signature="154:420" ph="{...}" />
+            <marker date="1540985558942" expanded="true" signature="197:418" ph="{...}" />
+            <marker date="1540985558942" expanded="true" signature="268:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.A.Tests/SorterTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1540985658511" expanded="true" signature="6:128" ph="..." />
+            <marker date="1540985658511" expanded="true" signature="154:960" ph="{...}" />
+            <marker date="1540985658511" expanded="true" signature="185:958" ph="{...}" />
+            <marker date="1540985658511" expanded="true" signature="265:443" ph="{...}" />
+            <marker date="1540985658511" expanded="true" signature="516:693" ph="{...}" />
+            <marker date="1540985658511" expanded="true" signature="770:951" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.B.Tests/SorterTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <marker date="1540985803632" expanded="true" signature="38:847" ph="{...}" />
+            <marker date="1540985803632" expanded="true" signature="69:845" ph="{...}" />
+            <marker date="1540985803632" expanded="true" signature="149:328" ph="{...}" />
+            <marker date="1540985803632" expanded="true" signature="401:579" ph="{...}" />
+            <marker date="1540985803632" expanded="true" signature="656:838" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.B/BubbleSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985803635" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985803635" expanded="true" signature="180:683" ph="{...}" />
+            <marker date="1540985803635" expanded="true" signature="235:676" ph="{...}" />
+            <marker date="1540985803635" expanded="true" signature="306:640" ph="{...}" />
+            <marker date="1540985803635" expanded="true" signature="410:626" ph="{...}" />
+            <marker date="1540985803635" expanded="true" signature="477:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.B/QuickSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985803637" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985803637" expanded="true" signature="181:1458" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="227:293" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="346:504" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="573:892" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="602:867" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="752:857" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="955:1118" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="1182:1285" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="1215:1279" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="1346:1455" ph="{...}" />
+            <marker date="1540985803637" expanded="true" signature="1382:1449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.B/Sorter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1540985803630" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985803630" expanded="true" signature="135:294" ph="{...}" />
+            <marker date="1540985803630" expanded="true" signature="162:291" ph="{...}" />
+            <marker date="1540985803630" expanded="true" signature="227:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round1.B/FibonacciIndex.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1540985803641" expanded="true" signature="53:1006" ph="{...}" />
+            <marker date="1540985803641" expanded="true" signature="87:1004" ph="{...}" />
+            <marker date="1540985803641" expanded="true" signature="140:298" ph="{...}" />
+            <marker date="1540985803641" expanded="true" signature="198:252" ph="{...}" />
+            <marker date="1540985803641" expanded="true" signature="340:839" ph="{...}" />
+            <marker date="1540985803641" expanded="true" signature="532:791" ph="{...}" />
+            <marker date="1540985803641" expanded="true" signature="890:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexEdgeCaseTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1540985816569" expanded="true" signature="85:401" ph="{...}" />
+            <marker date="1540985816569" expanded="true" signature="167:245" ph="{...}" />
+            <marker date="1540985816569" expanded="true" signature="316:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round1.B.Tests/FibonacciIndexTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1540985816573" expanded="true" signature="38:447" ph="{...}" />
+            <marker date="1540985816573" expanded="true" signature="75:445" ph="{...}" />
+            <marker date="1540985816573" expanded="true" signature="360:442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.A/FootballData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540979449000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540979449000" expanded="true" signature="135:513" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="167:510" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="218:503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.B/FootballData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985899572" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985899572" expanded="true" signature="135:518" ph="{...}" />
+            <marker date="1540985899572" expanded="true" signature="179:515" ph="{...}" />
+            <marker date="1540985899572" expanded="true" signature="223:508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.B/FootballScoreStats.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985903027" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985903027" expanded="true" signature="135:504" ph="{...}" />
+            <marker date="1540985903027" expanded="true" signature="173:502" ph="{...}" />
+            <marker date="1540985903027" expanded="true" signature="272:318" ph="{...}" />
+            <marker date="1540985903027" expanded="true" signature="365:496" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.B/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985903021" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985903021" expanded="true" signature="159:1000" ph="{...}" />
+            <marker date="1540985903021" expanded="true" signature="435:631" ph="{...}" />
+            <marker date="1540985903021" expanded="true" signature="681:994" ph="{...}" />
+            <marker date="1540985903021" expanded="true" signature="766:838" ph="{...}" />
+            <marker date="1540985903021" expanded="true" signature="882:954" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.B/IGameData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <marker date="1540985903032" expanded="true" signature="18:96" ph="{...}" />
+            <marker date="1540985903032" expanded="true" signature="51:94" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.A/Sorter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540979449000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540979449000" expanded="true" signature="135:2550" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="162:2547" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="223:1473" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="259:1437" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="388:810" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="516:788" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="599:762" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="1072:1396" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="1150:1374" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="1233:1348" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="1537:1707" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="1774:2539" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="1922:2235" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="2096:2221" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="2317:2396" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="2427:2503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.B/AbstractSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985803627" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985803627" expanded="true" signature="135:477" ph="{...}" />
+            <marker date="1540985803627" expanded="true" signature="176:475" ph="{...}" />
+            <marker date="1540985803627" expanded="true" signature="298:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round3.B/InsertionSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985803639" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985803639" expanded="true" signature="135:408" ph="{...}" />
+            <marker date="1540985803639" expanded="true" signature="185:402" ph="{...}" />
+            <marker date="1540985803639" expanded="true" signature="229:399" ph="{...}" />
+            <marker date="1540985803639" expanded="true" signature="276:380" ph="{...}" />
+            <marker date="1540985803639" expanded="true" signature="307:376" ph="{...}" />
+            <marker date="1540985803639" expanded="true" signature="338:371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round4.B/Library.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540985903030" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540985903030" expanded="true" signature="135:760" ph="{...}" />
+            <marker date="1540985903030" expanded="true" signature="162:758" ph="{...}" />
+            <marker date="1540985903030" expanded="true" signature="317:365" ph="{...}" />
+            <marker date="1540985903030" expanded="true" signature="406:475" ph="{...}" />
+            <marker date="1540985903030" expanded="true" signature="554:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round4.B/Title.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <marker date="1540985903035" expanded="true" signature="43:622" ph="{...}" />
+            <marker date="1540985903035" expanded="true" signature="219:331" ph="{...}" />
+            <marker date="1540985903035" expanded="true" signature="364:423" ph="{...}" />
+            <marker date="1540985903035" expanded="true" signature="453:512" ph="{...}" />
+            <marker date="1540985903035" expanded="true" signature="543:616" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round4.B/Member.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <marker date="1540985903019" expanded="true" signature="18:339" ph="{...}" />
+            <marker date="1540985903019" expanded="true" signature="44:337" ph="{...}" />
+            <marker date="1540985903019" expanded="true" signature="151:223" ph="{...}" />
+            <marker date="1540985903019" expanded="true" signature="264:331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round5.B/Maths.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1540986034659" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540986034659" expanded="true" signature="135:527" ph="{...}" />
+            <marker date="1540986034659" expanded="true" signature="161:524" ph="{...}" />
+            <marker date="1540986034659" expanded="true" signature="274:517" ph="{...}" />
+            <marker date="1540986034659" expanded="true" signature="397:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round5.A/Maths.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <marker date="1540979449000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1540979449000" expanded="true" signature="135:527" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="161:524" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="274:517" ph="{...}" />
+            <marker date="1540979449000" expanded="true" signature="397:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round4.A/LibraryTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1540991245543" expanded="true" signature="6:26" ph="..." />
+            <marker date="1540991245543" expanded="true" signature="46:693" ph="{...}" />
+            <marker date="1540991245543" expanded="true" signature="78:691" ph="{...}" />
+            <marker date="1540991245543" expanded="true" signature="170:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round5.A.Tests/MathsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <marker date="1540991446472" expanded="true" signature="38:768" ph="{...}" />
+            <marker date="1540991446472" expanded="true" signature="68:766" ph="{...}" />
+            <marker date="1540991446472" expanded="true" signature="127:206" ph="{...}" />
+            <marker date="1540991446472" expanded="true" signature="260:339" ph="{...}" />
+            <marker date="1540991446472" expanded="true" signature="395:474" ph="{...}" />
+            <marker date="1540991446472" expanded="true" signature="532:612" ph="{...}" />
+            <marker date="1540991446472" expanded="true" signature="675:759" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round4.B.Tests/LibraryTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <marker date="1540986034666" expanded="true" signature="6:172" ph="..." />
+            <marker date="1540986034666" expanded="true" signature="192:905" ph="{...}" />
+            <marker date="1540986034666" expanded="true" signature="224:903" ph="{...}" />
+            <marker date="1540986034666" expanded="true" signature="316:897" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round1.A/Round1.A.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <marker date="1540985182659" expanded="true" signature="6:46" ph="..." />
+            <marker date="1540985182659" expanded="true" signature="66:1140" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="105:1138" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="390:451" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="518:560" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="621:664" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="710:1135" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="750:783" ph="{...}" />
+            <marker date="1540985182659" expanded="true" signature="927:1100" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round5.B.Tests/MathsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1540991216347" expanded="false" signature="6:144" ph="..." />
+            <marker date="1540991216347" expanded="true" signature="170:531" ph="{...}" />
+            <marker date="1540991216347" expanded="true" signature="200:529" ph="{...}" />
+            <marker date="1540991216347" expanded="true" signature="410:523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.B.Tests/FootballScoreStatsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1540991795135" expanded="true" signature="38:322" ph="{...}" />
+            <marker date="1540991795135" expanded="true" signature="81:320" ph="{...}" />
+            <marker date="1540991795135" expanded="true" signature="152:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

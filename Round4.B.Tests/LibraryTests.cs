@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
+using Microsoft.Extensions.DependencyModel;
+using Xunit;
 
-namespace Round4.A
+namespace Round4.B
 {
-    [TestFixture]
     public class LibraryTests
     {
-        [Test]
+        [Fact]
         public void DonatedTitlesAreAddedToLibraryWithOneDefaultCopy()
         {
             Library library = new Library();
@@ -20,10 +20,10 @@ namespace Round4.A
             Title title = new Title(titleName, member);
             library.Donate(title);
             Title donatedTitle = library.GetTitles()[titleName];
-            Assert.AreEqual(titleName, title.TitleName);
-            Assert.AreEqual(donorId, title.DonorId);
-            Assert.AreEqual(1, title.CopyCount);
-            Assert.AreEqual(1, library.GetTitlesDonatedByMember(donorId).Count);
+            Assert.Equal(titleName, title.TitleName);
+            Assert.Equal(donorId, title.DonorId);
+            Assert.Equal(1, title.CopyCount);
+            Assert.Equal(1, library.GetTitlesDonatedByMember(donorId).Count);
         }
     }
 }
